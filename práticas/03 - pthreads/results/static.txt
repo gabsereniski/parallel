@@ -1,0 +1,4 @@
+num_elements: 100000000, num_threads: 4
+Checking result: (100000000.000000, 1.000000)
+
+Execution time: 1.27138
