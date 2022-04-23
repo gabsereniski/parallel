@@ -1,6 +1,3 @@
-everything:
-	linear static dynamic
-
 linear:
 	gcc -c timer.c
 	gcc linear.c timer.o -o linear.exe
